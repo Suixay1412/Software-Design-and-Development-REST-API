@@ -379,7 +379,8 @@ npm run dev
    - คลิกปุ่ม "Save" ที่มุมขวาบน
      
   ### บันทึกผลการทดลอง
-  ![แทรกรูปการตั้งค่า Postman](path/to/your/image.png)
+![image](https://github.com/user-attachments/assets/f3ae98fd-0cad-4e11-ad0a-ceb0ded760c3)
+
 
 1. การทดสอบ Request:
    - ตรวจสอบว่า Node.js server กำลังทำงานอยู่
@@ -389,7 +390,8 @@ npm run dev
    - ควรเห็น Status Code 201 Created
   
    ### บันทึกผลการทดลอง
-  ![แทรกรูปผลการเพิ่มข้อมูล](path/to/your/image.png)
+![image](https://github.com/user-attachments/assets/b4a104e5-3297-438b-a000-e984884ff4ef)
+![image](https://github.com/user-attachments/assets/0fde6848-4d09-4cae-b84e-566ccb60e700)
   ทดสอบเพิ่มข้อมูลการจองอีก 2 ครั้ง โดยเปลี่ยนแปลงข้อมูลในการจองเพื่อให้มีความแตกต่างกันในแต่ละครั้ง
   
 
@@ -402,7 +404,7 @@ npm run dev
    - URL: http://localhost:3000/api/bookings
 
   ### บันทึกผลการทดลอง
-  ![แทรกรูปผลการ Get ข้อมูลทั้งหมด](path/to/your/image.png)
+![image](https://github.com/user-attachments/assets/56c0ad72-b29b-42bf-88a1-6fe55f610ebc)
 
    b) Get Booking by ID:
    - สร้าง Request ใหม่ชื่อ "Get Booking by ID"
@@ -411,7 +413,7 @@ npm run dev
    (เปลี่ยนเลข 1 เป็น ID ที่ได้จากการสร้างข้อมูล)
 
   ### บันทึกผลการทดลอง
-  ![แทรกรูปผลการ Get ข้อมูลโดยระบุ ID](path/to/your/image.png)
+  ![image](https://github.com/user-attachments/assets/370e42fe-9e80-4a5d-9977-70709e7ddbb2)
 
    c) Update Booking:
    - สร้าง Request ใหม่ชื่อ "Update Booking"
@@ -421,7 +423,7 @@ npm run dev
    - แก้ไขข้อมูลบางส่วนใน JSON
 
   ### บันทึกผลการทดลอง
-  ![แทรกรูปผลการแก้ไขข้อมูล](path/to/your/image.png)
+ ![image](https://github.com/user-attachments/assets/e554142b-cbe7-4190-87ca-ac2765996faf)
 
    d) Delete Booking:
    - สร้าง Request ใหม่ชื่อ "Delete Booking"
@@ -429,7 +431,8 @@ npm run dev
    - URL: http://localhost:3000/api/bookings/1
   
     ### บันทึกผลการทดลอง
-  ![แทรกรูปผลการลบข้อมูล](path/to/your/image.png)
+![image](https://github.com/user-attachments/assets/09d578ae-6b3e-430c-8422-db6a0eda1b6b)
+
 
   ### หยุดการทำงานของ API Server โดยกดปุ่ม Ctrl + c
 
